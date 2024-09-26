@@ -26,6 +26,8 @@ Note: Each person offers you a Dragon Ball, and the alternatives you're making d
 
 Requirements
 Python 3.x
+
+----
 Credits
 This game was developed and designed by Sahul Hameed. The characters and storylines are inspired by the Dragon Ball universe, but the gameplay, interactions, and mechanics were crafted with an original twist by the developer.
 
