@@ -12,8 +12,11 @@ Introduction: The game starts with Goku introducing himself and setting the leve
 Choices: Throughout the game, gamers will face choices which could both help them enhance or cause tough battles. The options normally encompass:
 
 Fight: Engage with iconic Dragon Ball characters.
+
 Run: Escape from dangerous enemies.
+
 Call for help: Sometimes you can want help from fellow Z Fighters.
+
 Dragon Balls: For each assignment completed, the player receives a Dragon Ball. Once all seven Dragon Balls are collected, the participant will summon Shenron to furnish their desire.
 
 Victory: The purpose is to navigate thru encounters, gather all Dragon Balls, and subsequently summon Shenron to win the sport.
