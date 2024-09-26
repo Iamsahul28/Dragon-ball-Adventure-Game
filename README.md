@@ -5,7 +5,7 @@ come to Dragon Ball Adventure, a fun and interactive textual content-based game 
 
 ----
 How to Play
-Introduction: The game starts with Goku introducing himself and setting the level for the journey. Players need to accept the mission via typing "begin."
+Introduction: The game starts with Goku introducing himself and setting the level for the journey. Players need to accept the mission via typing "start."
 
 -----
 
